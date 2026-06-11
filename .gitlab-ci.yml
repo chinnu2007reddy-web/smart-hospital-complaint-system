@@ -1,9 +1,12 @@
 stages:
-  - audit
+  - test
 
-audit:
+test:
   image: python:3.11
 
   script:
+    - pip install -r requirements.txt
     - pip install pip-audit
     - pip-audit
+    - mypy .
+    - pytest --cov=.
