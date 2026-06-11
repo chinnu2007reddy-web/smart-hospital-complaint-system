@@ -1,0 +1,10 @@
+import streamlit as st
+
+st.image(
+    "assets/hospital_logo.png",
+    width=150
+)
+
+st.title(
+    "🏥 Smart Hospital Complaint System"
+)

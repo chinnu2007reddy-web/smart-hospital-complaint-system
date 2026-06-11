@@ -1,0 +1,5 @@
+complaint_id,patient_name,category,description,sentiment,priority,status,date,image
+CMP001,Vishal Reddy,Doctor Complaint,Doctor was unavailable during emergency,Negative,High,Pending,2026-06-11,
+CMP002,Rahul Sharma,Medicine Availability,Required medicine not available in pharmacy,Negative,Medium,Resolved,2026-06-10,
+CMP003,Priya,Appointment Issue,Appointment delayed by two hours,Negative,Medium,Resolved,2026-06-09,
+CMP004,Arjun,Staff Behavior,Staff was helpful and polite,Positive,Low,Under Review,2026-06-08,

@@ -1,0 +1,5 @@
+name,email,password,role
+Admin,admin@gmail.com,admin123,admin
+Vishal Reddy,vishal@gmail.com,123456,user
+Rahul Sharma,rahul@gmail.com,123456,user
+Priya,priya@gmail.com,123456,user
