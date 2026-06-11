@@ -1,10 +1,13 @@
 # Improvement Spec
 
 ## Current State
-Describe current behavior.
+What exists now?
 
 ## Proposed Improvement
-Describe improvement.
+What should be improved?
 
-## Impact
-Explain benefit.
+## Benefits
+Why is this better?
+
+## Implementation Notes
+Technical approach.
