@@ -1,5 +1,0 @@
-# Plan Template
-
-## Objective
-
-## Timeline
