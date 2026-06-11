@@ -1,10 +1,13 @@
-# Bug Fix Template
+# Bug Fix Spec
 
 ## Bug Description
-Describe the bug
+Describe the bug.
+
+## Root Cause
+Explain cause.
 
 ## Fix
-Explain how you fixed it
+Describe fix.
 
-## Cause
-Root cause analysis
+## Validation
+- [ ] Tested

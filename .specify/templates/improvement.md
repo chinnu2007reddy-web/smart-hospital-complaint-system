@@ -1,10 +1,10 @@
-# Improvement Template
+# Improvement Spec
 
-## Area
-What needs improvement
+## Current State
+Describe current behavior.
 
-## Change
-What you improved
+## Proposed Improvement
+Describe improvement.
 
 ## Impact
-Expected benefit
+Explain benefit.

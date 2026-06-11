@@ -1,14 +1,11 @@
-# Feature Template
-
-## Title
-Write feature name
+# Feature Spec
 
 ## Problem
-What issue does it solve?
+Describe the problem.
 
 ## Solution
-Explain solution
+Describe the solution.
 
-## Tasks
-- [ ] Task 1
-- [ ] Task 2
+## Acceptance Criteria
+- [ ] Criteria 1
+- [ ] Criteria 2
