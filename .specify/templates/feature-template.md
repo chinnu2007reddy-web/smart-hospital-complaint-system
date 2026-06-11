@@ -1,7 +1,7 @@
 # Feature Template
 
-## Feature Name
+## Goal
 
-## Description
+## Requirements
 
 ## Acceptance Criteria
