@@ -6,3 +6,5 @@ ruff
 pytest
 pytest-cov
 mypy
+pre-commit
+gitleaks
