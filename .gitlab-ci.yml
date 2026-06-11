@@ -1,9 +1,9 @@
 stages:
-  - test
+  - audit
 
-test:
+audit:
   image: python:3.11
 
   script:
-    - pip install -r requirements.txt
-    - python --version
+    - pip install pip-audit
+    - pip-audit
