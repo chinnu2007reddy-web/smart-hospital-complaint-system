@@ -1,14 +1,23 @@
+@'
 # Bug Fix Spec
 
-## Issue
+## Summary
+Describe the bug.
+
+## Problem
 What is broken?
 
 ## Root Cause
-Why it broke?
+Why did it happen?
 
 ## Fix
-How it will be fixed?
+How will it be fixed?
 
 ## Validation
-- [ ] Verified fix
+- [ ] Reproduced issue
+- [ ] Fix verified
 - [ ] No regression
+
+## Notes
+Additional details.
+'@ | Set-Content .specify\templates\bugfix.md

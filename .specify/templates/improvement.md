@@ -1,10 +1,22 @@
+@'
 # Improvement Spec
 
-## Current State
-What exists now?
+## Summary
+Describe the improvement.
 
-## Improvement
+## Current State
+What exists today?
+
+## Proposed Improvement
 What should change?
 
-## Benefit
-Why this improves system
+## Benefits
+Why is this improvement useful?
+
+## Acceptance Criteria
+- [ ] Improvement implemented
+- [ ] Tested successfully
+
+## Notes
+Additional details.
+'@ | Set-Content .specify\templates\improvement.md
