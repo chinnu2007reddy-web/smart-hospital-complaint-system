@@ -1,22 +1,14 @@
 # Bug Fix Spec
 
-## Bug Description
+## Issue
 What is broken?
 
-## Steps to Reproduce
-1.
-2.
-3.
-
-## Expected Behavior
-What should happen?
-
 ## Root Cause
-Why it happened?
+Why it broke?
 
-## Fix Plan
+## Fix
 How it will be fixed?
 
-## Verification
-- [ ] Fix works
-- [ ] No regression introduced
+## Validation
+- [ ] Verified fix
+- [ ] No regression

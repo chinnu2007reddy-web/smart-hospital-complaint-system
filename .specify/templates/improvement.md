@@ -3,11 +3,8 @@
 ## Current State
 What exists now?
 
-## Proposed Improvement
-What should be improved?
+## Improvement
+What should change?
 
-## Benefits
-Why is this better?
-
-## Implementation Notes
-Technical approach.
+## Benefit
+Why this improves system

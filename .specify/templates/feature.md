@@ -1,18 +1,12 @@
 # Feature Spec
 
-## Overview
-Describe the feature clearly.
-
 ## Problem
-What problem does this solve?
+What problem are we solving?
 
 ## Solution
-What will be implemented?
+What will be built?
 
 ## Acceptance Criteria
-- [ ] Must work as expected
-- [ ] Edge cases handled
+- [ ] Works correctly
 - [ ] No breaking changes
-
-## Notes
-Additional context if needed.
+- [ ] Tested properly
