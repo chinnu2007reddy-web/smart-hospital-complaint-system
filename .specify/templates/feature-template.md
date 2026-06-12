@@ -1,4 +1,3 @@
-@'
 # Feature Spec
 
 ## Summary
@@ -21,4 +20,3 @@ What will be built?
 
 ## Notes
 Additional implementation details.
-'@ | Set-Content .specify\templates\feature.md

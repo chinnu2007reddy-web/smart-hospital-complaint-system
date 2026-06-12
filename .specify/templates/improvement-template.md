@@ -1,4 +1,3 @@
-@'
 # Improvement Spec
 
 ## Summary
@@ -19,4 +18,3 @@ Why is this improvement useful?
 
 ## Notes
 Additional details.
-'@ | Set-Content .specify\templates\improvement.md

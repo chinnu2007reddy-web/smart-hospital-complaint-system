@@ -1,4 +1,3 @@
-@'
 # Bug Fix Spec
 
 ## Summary
@@ -20,4 +19,3 @@ How will it be fixed?
 
 ## Notes
 Additional details.
-'@ | Set-Content .specify\templates\bugfix.md
